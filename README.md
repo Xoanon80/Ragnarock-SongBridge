@@ -1,5 +1,5 @@
 # Ragnarock - SongBridge Mod
-**Lua script to expose live song metadata from Ragnarock to external tools (e.g. Streamer.bot overlays).**
+**Lua script to expose live song metadata from Ragnarock to external tools (e.g. [Streamer.bot overlay](https://github.com/Xoanon80/Ragnarock-Streamer.bot-Enhanced-Song-Overlay#-v2-songbridge-mod-integration-optional)).**
 
 # Features
 - Detects song selection
@@ -42,7 +42,7 @@ Choose the version matching how you play. Only install/activate one at a time.
 
 # Notes
 - `SongBridge.txt` uses the same filename regardless of variant.
-- The `SongBridge.txt` as a data source works with and adds abilites to the (upcoming) V2 of the [Ragnarock Streamer.bot Enhanced Overlay](https://github.com/Xoanon80/Ragnarock-Streamer.bot-Enhanced-Song-Overlay)
+- The `SongBridge.txt` as a data source works with and adds abilites to the V2 of the [Ragnarock Streamer.bot Enhanced Overlay]([https://github.com/Xoanon80/Ragnarock-Streamer.bot-Enhanced-Song-Overlay](https://github.com/Xoanon80/Ragnarock-Streamer.bot-Enhanced-Song-Overlay#-v2-songbridge-mod-integration-optional))
 
 ---
 # Project Support
